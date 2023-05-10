@@ -1,0 +1,17 @@
+body
+{
+    width: 100% ;
+    height: 100hv;
+   overflow: hidden;
+}
+.tecla
+{
+  border-style: solid;
+  border-color: purple;
+  border-radius: 5px;
+  
+}
+.teclado
+{
+  border-radius: 5px;
+}
